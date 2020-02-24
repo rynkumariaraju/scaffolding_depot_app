@@ -1,5 +1,5 @@
 # README
-
+[![Maintainability](https://api.codeclimate.com/v1/badges/7183991ac2f101ec45da/maintainability)](https://codeclimate.com/github/rynkumariaraju/scaffolding_depot_app/maintainability)
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
